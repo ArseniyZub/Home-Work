@@ -1,0 +1,15 @@
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\bin\Debug\net7.0\Task15.exe
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\bin\Debug\net7.0\Task15.deps.json
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\bin\Debug\net7.0\Task15.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\bin\Debug\net7.0\Task15.pdb
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\refint\Task15.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.pdb
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task15\obj\Debug\net7.0\ref\Task15.dll

@@ -1,0 +1,15 @@
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\bin\Debug\net7.0\Task13.exe
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\bin\Debug\net7.0\Task13.deps.json
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\bin\Debug\net7.0\Task13.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\bin\Debug\net7.0\Task13.pdb
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\refint\Task13.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.pdb
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar2\Task13\obj\Debug\net7.0\ref\Task13.dll

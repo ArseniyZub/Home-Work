@@ -1,0 +1,15 @@
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.csproj.AssemblyReference.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.AssemblyInfoInputs.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.AssemblyInfo.cs
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.csproj.CoreCompileInputs.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\bin\Debug\net7.0\StarTask.exe
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\bin\Debug\net7.0\StarTask.deps.json
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\bin\Debug\net7.0\StarTask.runtimeconfig.json
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\bin\Debug\net7.0\StarTask.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\bin\Debug\net7.0\StarTask.pdb
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\refint\StarTask.dll
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.pdb
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\StarTask.genruntimeconfig.cache
+C:\Users\zubko\OneDrive\Рабочий стол\GeekBrains\Home Work\Seminar4\StarTask\obj\Debug\net7.0\ref\StarTask.dll
